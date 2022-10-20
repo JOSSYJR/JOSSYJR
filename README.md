@@ -7,8 +7,8 @@
 
 
 - 👨‍💻 Most of my personal projects are available at [https://github.com/jossyjr?tab=repositories](https://github.com/jossyjr?tab=repositories)
-- 🔭 Visit My Portfolio [https://nuredinibrahim.netlify.app](https://nuredinibrahim.netlify.app)
-- 🌱 I’m currently working at Versavvy Media PLC
+- 🔭 Visit My Portfolio [https://yoseftesfaye.com.et](https://yoseftesfaye.com.et)
+- 🌱 I’m currently working at Mega Supply Eng.
 - 🥅 2022 Goals: To contribute more to open source projects
 - 👯 I’m looking to collaborate with other content creators
 <!-- 
