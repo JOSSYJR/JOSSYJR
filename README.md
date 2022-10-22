@@ -71,15 +71,4 @@
 
 
 
-<h3 align="center"><b>⚡ My Development Statistics</b></h3>
-
-<p align="center">  
-<!-- GitHub Stats -->  
-    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=jossyjr&show_icons=true&hide_border=true" /> -->
-    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossyjr&layout=compact&theme=radical" />
-    <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=jossyjr&layout=compact&theme=radical -->
-<!-- Most Used Languages -->  <br/>
-    <!-- <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossyjr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
-    <img height="180em" width = "100%" src="https://github-readme-stats.vercel.app/api?username=jossyjr&layout=compact&theme=radical"/>
-    <!-- https://github-readme-stats.vercel.app/api?username=jossyjr&layout=compact&theme=radical -->
-</p>  
+ 
