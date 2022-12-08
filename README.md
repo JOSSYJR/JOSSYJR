@@ -34,14 +34,12 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/nuredin.10#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/nuredin.10#gh-dark-mode-only)
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yosef-tesfaye-jr/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yosef-tesfaye-jr/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nuredin10#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nuredin10#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/nuredin.10#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/nuredin.10#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/___jossy.jr/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/___jossy.jr/#gh-dark-mode-only)
 
 
 
