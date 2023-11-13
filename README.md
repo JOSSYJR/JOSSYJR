@@ -52,7 +52,7 @@
 </samp>
 <p align="center">
   
-  <!--- stats (start) -->
+  <!--- stats (start) 
 <table align="center">
 <tr border="0">
 <td width="50%" align="center">
@@ -69,7 +69,7 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
+<!--- stats (end) -->-->
 <div align=center>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=jossyjr&label=Profile%20Views&color=12&icon=5&pretty=true" />
