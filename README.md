@@ -41,6 +41,8 @@
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/___jossy.jr/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/___jossy.jr/#gh-dark-mode-only)
+<a href="https://t.me/MrHappy985" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="hashnode" height="50" width="50" /></a>
+    
 
 
 
