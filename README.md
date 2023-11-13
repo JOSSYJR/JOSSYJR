@@ -4,31 +4,15 @@
 
 <h2>Good to have you here. This is my Github profile!</h2>
 
-<h3 align="center">I am a currently pursuing a Bachelor's in Computer Science from HiLCoE school of Computer Science. I am an active learner who is continually passionate in learning new technologies and avid in working in them.</h3>
+<h3 align="center">I am currently pursuing a Bachelor's in Computer Science from HiLCoE School of Computer Science. I am an active learner who is continually passionate about learning new technologies and avid in working with them.</h3>
 
 
 - 👨‍💻 Most of my personal projects are available at [https://github.com/jossyjr?tab=repositories](https://github.com/jossyjr?tab=repositories)
 - 🔭 Visit My Portfolio [https://yoseftesfaye.com.et](https://yosef.sweaven.dev/)
 - 🌱 I’m currently working at Mega Supply Eng.
-- 🥅 2023 Goals: To contribute more to open source projects
+- 🥅 2023 Goals: To contribute more to open-source projects
 - 👯 I’m looking to collaborate with other content creators
-<!-- 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
- -->
-<!-- 
-## I'm a Developer!!
-
-- 🌱 I’m currently working at Versavvy Media PLC
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To contribute more to open source projects
-- 🔭 Check out my portfolio: [course]! -->
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
-<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 <br />
 
 ---
