@@ -9,8 +9,8 @@
 
 - 👨‍💻 Most of my personal projects are available at [https://github.com/jossyjr?tab=repositories](https://github.com/jossyjr?tab=repositories)
 - 🔭 Visit My Portfolio [https://yoseftesfaye.com](https://yoseftesfaye.com/)
-- 🌱 I’m currently working at Mega Supply Eng.
-- 🥅 2023 Goals: To contribute more to open-source projects
+- 🌱 I’m currently working at Tefer.io.
+- 🥅 2024 Goals: To contribute more to open-source projects
 - 👯 I’m looking to collaborate with other content creators
 
 <br />
