@@ -4,13 +4,13 @@
 
 <h2>Good to have you here. This is my Github profile!</h2>
 
-<h3 align="center">I am currently pursuing a Bachelor's in Computer Science from HiLCoE School of Computer Science. I am an active learner who is continually passionate about learning new technologies and avid in working with them.</h3>
+<h3 align="center">I am a passionate developer with a strong background in software development, specializing in full-stack web applications. I focused on creating innovative and efficient solutions using modern technologies. Check out my work and projects.</h3>
 
 
 - 👨‍💻 Most of my personal projects are available at [https://github.com/jossyjr?tab=repositories](https://github.com/jossyjr?tab=repositories)
 - 🔭 Visit My Portfolio [https://yoseftesfaye.com](https://yoseftesfaye.com/)
-- 🌱 I’m currently working at Tefer.io.
-- 🥅 2024 Goals: To contribute more to open-source projects
+- 🌱 I’m currently working at Target Business Consultants.
+- 🥅 2025 Goals: To contribute more to open-source projects
 - 👯 I’m looking to collaborate with other content creators
 
 <br />
